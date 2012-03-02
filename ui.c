@@ -251,9 +251,9 @@ static void draw_text_line(int row, const char* t, int align) {
 //#define MENU_TEXT_COLOR 255, 160, 49, 255 //yellow-orange
 //#define MENU_TEXT_COLOR 0, 0, 0, 255 //black
 #define MENU_TEXT_COLOR 0, 191, 255, 255 //blue-normal
-#define NORMAL_TEXT_COLOR 200, 200, 200, 255 //silver
+//#define NORMAL_TEXT_COLOR 200, 200, 200, 255 //silver
 //#define NORMAL_TEXT_COLOR 0, 247, 255, 255 //light-blue
-//#define NORMAL_TEXT_COLOR 255, 0, 0, 255 //red
+#define NORMAL_TEXT_COLOR 255, 0, 0, 255 //red
 //#define NORMAL_TEXT_COLOR 0, 128, 0, 255 //green
 #define HEADER_TEXT_COLOR NORMAL_TEXT_COLOR
 
