@@ -51,15 +51,15 @@ static int gShowBackButton = 0;
 //  #define CHAR_WIDTH 15
 // #define CHAR_HEIGHT 36
 //#else
-#define CHAR_WIDTH 15
-#define CHAR_HEIGHT 36
+//#define CHAR_WIDTH 
+//#define CHAR_HEIGHT 36
 //#endif
 
 
 #define MIN_LOG_ROWS 3
 
-//#define CHAR_WIDTH BOARD_RECOVERY_CHAR_WIDTH
-//#define CHAR_HEIGHT BOARD_RECOVERY_CHAR_HEIGHT
+#define CHAR_WIDTH BOARD_RECOVERY_CHAR_WIDTH
+#define CHAR_HEIGHT BOARD_RECOVERY_CHAR_HEIGHT
 
 #define UI_WAIT_KEY_TIMEOUT_SEC    3600
 
